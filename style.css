@@ -87,7 +87,7 @@ header{
     font-size: 18px;
 }
         /* HOVER */
-.lists a:hover,.logo a:hover{
+.lists a:hover,.logo a:hover,.search{
   color: blue;
 }
 
